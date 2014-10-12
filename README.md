@@ -1,7 +1,7 @@
 Google Home
 ===============
 
-Deconstricting Google home page
+Deconstructing Google home page
 -------------------------------
 
 Odin html/css project
