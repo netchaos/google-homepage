@@ -1,0 +1,92 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.clear{
+	clear: both;
+}
+a{
+	text-decoration: none;
+
+}
+body{
+	font-family: Arial, sans-serif;
+	color:#404040;
+	font-size: small;
+}
+
+div.nav{
+	text-align: right;
+	padding: 14px;
+	float: right;	
+}
+
+.nav-text {
+	line-height: 30px;
+}
+
+.nav div {
+	float: left;
+	padding: 0 8px;
+}
+
+.nav a{
+	color:#404040;
+} 
+
+.nav a:hover{
+	text-decoration: underline;
+} 
+
+#profile_pic{
+	background-image: url("https://lh3.googleusercontent.com/-dTFD4-m1L5I/AAAAAAAAAAI/AAAAAAAAAAA/u-HIk4my5Qs/s64-c/photo.jpg");
+	background-size: 32px 32px;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	border-radius: 50%;
+	vertical-align: middle;
+}
+#notification, #apps{
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	background-size: 247px 204px;
+	vertical-align: middle;
+}
+#apps{
+	background-image: url("https://ssl.gstatic.com/gb/images/i2_737b438e.png");
+	background-position: -60px 0;
+}
+
+#notification{
+	background-image: url("https://ssl.gstatic.com/gb/images/i2_737b438e.png");
+	background-position: -90px 0;
+
+}
+#share_container {
+	text-align: center;
+}
+#share{
+	width: 60px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	border-radius: 4px;
+}
+
+.main{
+	margin-top: 20px;
+}
+
+.main-container{
+	padding-top: 120px
+}
+
+.logo{
+	background: url('https://www.google.ca/images/srpr/logo11w.png') no-repeat;
+	background-size: 269px 95px;
+	height: 95px;
+	width: 269px;
+	margin: 0 auto;
+}
+
